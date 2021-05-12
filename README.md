@@ -1,1 +1,1 @@
-"# AzureStaticWebSitesDemo" 
+Azure Static WebSite Demo
